@@ -1,0 +1,2 @@
+springboot3之后spring.factory不生效时创建 spring.org.springframework.boot.autoconfigure.AutoConfiguration.imports
+直接填上自动配置类名即可
